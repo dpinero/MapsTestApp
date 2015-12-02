@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Antipode</string>
+    <string name="title_activity_maps">Antipode</string>
+    <string name="findantipode">Find Antipode</string>
+    <string name="title_activity_main">Antipode</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
